@@ -1,0 +1,42 @@
+_repo: Kuolema_56399
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kianto, Ilmari
+    alias: Calamnius, Ilmari
+    birthdate: 1874
+    deathdate: 1970
+    gutenberg_agent_id: '44960'
+    url: http://www.gutenberg.org/2009/agents/44960
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: 'Translation of: Смерть Ивана Ильича.'
+gutenberg_issued: '2018-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56399'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Sick -- Fiction'
+- !lcsh 'Death -- Fiction'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Kuolema
+url: http://www.gutenberg.org/ebooks/56399
